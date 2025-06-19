@@ -6,7 +6,7 @@
 *DURATION*: 12 WEEKS
 *MENTOR*: NEELA SANTOSH KUMAR
 
-Here is a complete **Power BI Project Documentation** for your internship project titled **“Sales Performance Dashboard”**, based on the Superstore dataset. You can use this as part of your report or submission for the CODTECH internship.
+Here is a complete **Power BI Project Documentation** for your internship project titled **“Sales Performance Dashboard”**, based on the Superstore dataset. I can use this as part of your report or submission for the CODTECH internship.
 
 ---
 
